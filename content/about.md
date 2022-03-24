@@ -5,11 +5,9 @@ title = "About"
 no_header = true
 +++
 
-This is a [Zola][zola] port of [Sam theme][original] for [Hugo][hugo].
+I do full stack software development at [Tivix](https://www.tivix.com).
+Mainly with Django/python and whatever the coolest Javascript framework is at the moment.
+I've worked with Angular and React, but currently I prefer Vue.
+These days I'm also trying to get good at Rust.
 
-See the [repository][repository] for information on how to set it up.
-
-[zola]: https://getzola.org
-[original]: https://github.com/victoriadotdev/hugo-theme-sam
-[hugo]: https://gohugo.io
-[repository]: https://github.com/janbaudisch/zola-sam
+I'm also obsessed with rock climbing and when I'm not in front of my computer I'm out in the mountains.
