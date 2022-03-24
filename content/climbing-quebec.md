@@ -2,19 +2,13 @@
 title = "Climbing in Quebec"
 
 [extra]
-no_header = true
 +++
 
 
-* Name
-* climbing type
-* link to topo
-* google maps link
-
-
-[escalde quebec](https://www.escaladequebec.com/topos-du-quebec/)
-[mountain project](https://www.mountainproject.com/area/106143490/quebec-city-charlevoix-portneuf)
-[fqme](https://fqme.qc.ca/map/)
+## Resources
+* [escalade quebec](https://www.escaladequebec.com/topos-du-quebec/)
+* [mountain project](https://www.mountainproject.com/area/106143490/quebec-city-charlevoix-portneuf)
+* [fqme](https://fqme.qc.ca/map/)
 
 ## Bouldering
 
