@@ -7,6 +7,8 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+theme = "sam"
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -14,5 +16,10 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+sam_menu = [
+    { text = "about", link = "/about" },
+    { text = "climbing", link = "/climbing-quebec" },
+#    { text = "tech", link = "/tech" },
+    { text = "github", link = "https://github.com/brleinad" }
+]
 
-theme = "sam"
