@@ -1,10 +1,10 @@
-++
++++
 title = "Reading List"
 
 [extra]
 hide_word_count = true
 hide_reading_time = true
-++
++++
 
 ## Books to Read
 
