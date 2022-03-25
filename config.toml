@@ -18,8 +18,8 @@ highlight_code = true
 # Put all your custom variables here
 sam_menu = [
     { text = "about", link = "/about" },
-    { text = "climbing", link = "/climbing-quebec" },
-#    { text = "tech", link = "/tech" },
+    { text = "climbing", link = "/climbing" },
+    { text = "tech", link = "/tech" },
     { text = "github", link = "https://github.com/brleinad" }
 ]
 
