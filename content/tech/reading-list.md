@@ -19,6 +19,7 @@ hide_reading_time = true
 * Fluent python
 * [The Rust book](https://doc.rust-lang.org/book/title-page.html)
 * Learn Perl
+* [Obey the testing goat](https://www.obeythetestinggoat.com/)
 
 
 ## Blogs posts I liked
